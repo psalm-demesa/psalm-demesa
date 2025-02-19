@@ -1,10 +1,10 @@
-# Psalm De Mesa
+# Hi there! I'm Psalm De Mesa
 ### Year 11 - TDG student
 ![bamboo](https://github.com/user-attachments/assets/e609e560-c06b-4bc8-a5e5-01c2fbdd8c8a)
 > A candid picture of me (my back) when we went to Hamilton Gardens during the Summer Holidays.
 
 #### A little bit about me:
-> My name is Psalm De Mesa and I am a 15-year-old Filipino student at WSC.
+> I am a 15-year-old Filipino student at WSC.
 > I watch movies, anime, and TV shows in my free time.
 > But I mostly scroll on my phone and cook for my family. I could play my guitar and jam for hours if I try to not use my phone for the day. 
 > The sports that I play are badminton, volleyball, and a bit of basketball.
