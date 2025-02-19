@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**psalm-demesa/psalm-demesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Psalm De Mesa
 ### Year 11 - TDG student
 ![bamboo](https://github.com/user-attachments/assets/e609e560-c06b-4bc8-a5e5-01c2fbdd8c8a)
