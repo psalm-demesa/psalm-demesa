@@ -20,5 +20,7 @@
 - HTML, CSS
 - GitHub
 - Visual Studio Code
+- Blender
+- SketchUp
   
 
